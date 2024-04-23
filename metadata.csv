@@ -1,0 +1,1656 @@
+plotcode,visit,lulc,phase,date,season,common_name,scientific_name,family,order,cue,individual
+J6,1,jhum,1,15/10/2021,pre-winter,Oriental Turtle-Dove,Streptopelia orientalis,Columbidae,Columbiformes,sight,2
+J6,1,jhum,1,15/10/2021,pre-winter,Peregrine Falcon,Falco peregrinus,Falconidae,Falconiformes,sight,1
+J7,1,jhum,1,15/10/2021,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J1,1,jhum,1,18/10/2021,pre-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,2
+J8,1,jhum,1,18/10/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J8,1,jhum,1,18/10/2021,pre-winter,Grey-crowned Warbler,Phylloscopus tephrocephalus,Phylloscopidae,Passeriformes,sight,1
+J8,1,jhum,1,18/10/2021,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,sight,3
+J6,1,jhum,1,23/10/2021,pre-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,1
+J6,2,jhum,1,23/10/2021,pre-winter,Peregrine Falcon,Falco peregrinus,Falconidae,Falconiformes,sight,1
+J7,2,jhum,1,23/10/2021,pre-winter,Lesser Yellownape,Picus chlorolophus,Picidae,Piciformes,sight,1
+J7,2,jhum,1,23/10/2021,pre-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,1
+J1,2,jhum,1,25/10/2021,pre-winter,NA,NA,NA,NA,NA,NA
+J8,2,jhum,1,25/10/2021,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J8,2,jhum,1,25/10/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,1
+A1,1,abandoned,1,26/10/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A1,1,abandoned,1,26/10/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A1,1,abandoned,1,26/10/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,3
+A2,1,abandoned,1,26/10/2021,pre-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,3
+A5,1,abandoned,1,27/10/2021,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,sight,1
+A5,1,abandoned,1,27/10/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,8
+J4,1,jhum,1,27/10/2021,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,1
+J4,1,jhum,1,27/10/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J5,1,jhum,1,27/10/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,3
+J5,1,jhum,1,27/10/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,5
+F1,1,forest,1,28/10/2021,pre-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,call,1
+F1,1,forest,1,28/10/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+A1,2,abandoned,1,16/11/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A2,2,abandoned,1,16/11/2021,pre-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,3
+A2,2,abandoned,1,16/11/2021,pre-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,sight,1
+A5,2,abandoned,1,17/11/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+A5,2,abandoned,1,17/11/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,10
+J4,2,jhum,1,17/11/2021,pre-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,2
+J4,2,jhum,1,17/11/2021,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+J5,2,jhum,1,17/11/2021,pre-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J5,2,jhum,1,17/11/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,3
+J5,2,jhum,1,17/11/2021,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,2
+B4,1,bamboo,1,19/11/2021,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B4,1,bamboo,1,19/11/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,5
+B4,1,bamboo,1,19/11/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B5,2,bamboo,1,21/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+A6,6,abandoned,3,23/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,sight,1
+F5,1,forest,1,20/11/2021,pre-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,call,1
+F5,1,forest,1,20/11/2021,pre-winter,Yellow-billed Blue-Magpie,Urocissa flavirostris,Corvidae,Passeriformes,call,1
+F6,1,forest,1,20/11/2021,pre-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,sight,10
+F6,1,forest,1,20/11/2021,pre-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,sight,1
+F6,1,forest,1,20/11/2021,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,sight,1
+F6,1,forest,1,20/11/2021,pre-winter,Streaked Spiderhunter,Arachnothera magna,Nectariniidae,Passeriformes,sight,1
+F6,1,forest,1,20/11/2021,pre-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,1
+F6,1,forest,1,20/11/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,2
+F6,1,forest,1,20/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,sight,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B6,2,bamboo,1,21/11/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Dark-sided Thrush,Zoothera marginata,Turdidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B2,1,bamboo,1,24/11/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F8,1,forest,1,25/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B3,1,bamboo,1,24/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,4
+B7,1,bamboo,1,30/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,Yellow-billed Blue Magpie,Urocissa flavirostris,Corvidae,Passeriformes,sight,3
+F8,1,forest,1,25/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F8,1,forest,1,25/11/2021,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F8,1,forest,1,25/11/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,1,forest,1,25/11/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F8,1,forest,1,25/11/2021,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F8,1,forest,1,25/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+A6,1,abandoned,1,27/11/2021,pre-winter,NA,NA,NA,NA,NA,NA
+A7,1,abandoned,1,27/11/2021,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+A7,1,abandoned,1,27/11/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,4
+A8,1,abandoned,1,27/11/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A8,1,abandoned,1,27/11/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+A3,1,abandoned,1,29/11/2021,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+A3,1,abandoned,1,29/11/2021,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,4
+A3,1,abandoned,1,29/11/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,4
+J2,1,jhum,1,29/11/2021,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+J2,1,jhum,1,29/11/2021,pre-winter,Long-tailed Shrike,Lanius schach,Laniidae,Passeriformes,sight,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Long-billed Thrush,Zoothera monticola,Turdidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+J1,7,jhum,4,20/02/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B7,1,bamboo,1,30/11/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,sight,1
+B8,1,bamboo,1,30/11/2021,pre-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B5,1,bamboo,1,01/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B5,1,bamboo,1,01/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B5,1,bamboo,1,01/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,sight,2
+B5,1,bamboo,1,01/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B5,1,bamboo,1,01/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,4
+B6,1,bamboo,1,01/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B6,1,bamboo,1,01/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,sight,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F7,7,forest,4,02/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,sight,5
+B4,2,bamboo,1,02/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B8,2,bamboo,1,16/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,sight,2
+F5,2,forest,1,02/12/2021,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,call,1
+A5,8,abandoned,4,07/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,sight,2
+F6,2,forest,1,02/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,NA,NA,NA,NA,NA,NA
+F6,2,forest,1,02/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F6,2,forest,1,02/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,sight,1
+F2,2,forest,1,07/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,sight,1
+F2,2,forest,1,07/12/2021,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F2,2,forest,1,07/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,2
+B1,2,bamboo,1,21/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F8,2,forest,1,08/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F8,2,forest,1,08/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F8,2,forest,1,08/12/2021,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F8,2,forest,1,08/12/2021,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F8,2,forest,1,08/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F1,2,forest,1,09/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Blue-winged Laughingthrush,Trochalopteron squamatum,Leiotrichidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,1
+F1,2,forest,1,09/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,3
+F1,2,forest,1,09/12/2021,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F1,2,forest,1,09/12/2021,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,1
+B3,8,bamboo,4,08/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,sight,4
+F4,1,forest,1,10/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Rufous-bellied Niltava,Niltava sundara,Muscicapidae,Passeriformes,sight,1
+F4,1,forest,1,10/12/2021,pre-winter,Scaly Laughingthrush,Trochalopteron subunicolor,Leiothrichidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,2
+F7,1,forest,1,10/12/2021,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+F7,1,forest,1,10/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+A4,1,abandoned,1,13/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,sight,3
+A4,1,abandoned,1,13/12/2021,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,call,1
+J3,1,jhum,1,13/12/2021,pre-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J3,1,jhum,1,13/12/2021,pre-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,1
+J3,1,jhum,1,13/12/2021,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,1
+J3,1,jhum,1,13/12/2021,pre-winter,Grey-backed Shrike,Lanius tephronotus,Laniidae,Passeriformes,sight,1
+B2,2,bamboo,1,15/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B2,2,bamboo,1,15/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,2,bamboo,1,15/12/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B2,2,bamboo,1,15/12/2021,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F7,8,forest,4,11/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,sight,10
+B3,2,bamboo,1,15/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,10
+B7,2,bamboo,1,16/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B7,2,bamboo,1,16/12/2021,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B8,2,bamboo,1,16/12/2021,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F4,2,forest,1,17/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F4,2,forest,1,17/12/2021,pre-winter,Yellow-billed Blue-Magpie,Urocissa flavirostris,Corvidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,8
+F7,2,forest,1,17/12/2021,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,sight,6
+F7,2,forest,1,17/12/2021,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Bronzed Drongo,Dicrurus aeneus,Dicruridae,Passeriformes,sight,1
+F7,2,forest,1,17/12/2021,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,sight,1
+F7,2,forest,1,17/12/2021,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+F2,1,forest,1,20/11/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,20
+F7,2,forest,1,17/12/2021,pre-winter,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,sight,5
+F7,2,forest,1,17/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,1
+F7,2,forest,1,17/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A6,2,abandoned,1,18/12/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+A7,2,abandoned,1,18/12/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+A8,2,abandoned,1,18/12/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,5
+A3,2,abandoned,1,19/12/2021,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+A3,2,abandoned,1,19/12/2021,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+J2,2,jhum,1,19/12/2021,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,2
+J2,2,jhum,1,19/12/2021,pre-winter,Long-tailed Shrike,Lanius schach,Laniidae,Passeriformes,call,1
+A4,2,abandoned,1,20/12/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J3,2,jhum,1,20/12/2021,pre-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J3,2,jhum,1,20/12/2021,pre-winter,Green-backed Tit,Parus monticolus,Paridae,Passeriformes,sight,15
+B1,2,bamboo,1,21/12/2021,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B5,2,bamboo,1,21/11/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B5,2,bamboo,1,21/12/2021,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,sight,1
+B6,2,bamboo,1,21/12/2021,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B1,4,bamboo,2,11/02/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B1,4,bamboo,2,11/02/2022,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,call,1
+J1,3,jhum,2,18/02/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J6,3,jhum,2,18/02/2022,post-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+J6,3,jhum,2,18/02/2022,post-winter,Red-throated Thrush,Turdus ruficollis,Turdidae,Passeriformes,sight,1
+F1,5,forest,3,15/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+J7,3,jhum,2,18/02/2022,post-winter,Dark-rumped Rosefinch,Carpodacus edwardsii,Fringillidae,Passeriformes,sight,1
+J7,3,jhum,2,18/02/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+J7,3,jhum,2,18/02/2022,post-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,7
+A2,3,abandoned,2,22/02/2022,post-winter,NA,NA,NA,NA,NA,NA
+B2,3,bamboo,2,22/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,NA,NA,NA,NA,NA,NA
+B7,1,bamboo,1,30/11/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B2,3,bamboo,2,22/02/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,sight,1
+B3,3,bamboo,2,22/02/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,1
+F8,5,forest,3,15/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,3,bamboo,2,22/02/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F3,3,forest,2,24/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,3,forest,2,24/02/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F3,3,forest,2,24/02/2022,post-winter,Collared Treepie,Dendrocitta frontalis,Corvidae,Passeriformes,sight,2
+F3,3,forest,2,24/02/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F3,3,forest,2,24/02/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B4,2,bamboo,1,02/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F8,3,forest,2,24/02/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F8,3,forest,2,24/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F8,3,forest,2,24/02/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,3,forest,2,24/02/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F8,3,forest,2,24/02/2022,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,sight,2
+F5,3,forest,2,25/02/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Himalayan Cutia,Cutia nipalensis,Leiothrichidae,Passeriformes,sight,2
+F5,3,forest,2,25/02/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,call,1
+F5,3,forest,2,25/02/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F6,3,forest,2,25/02/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F6,3,forest,2,25/02/2022,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F6,3,forest,2,25/02/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F6,3,forest,2,25/02/2022,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F6,3,forest,2,25/02/2022,post-winter,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,call,1
+F6,3,forest,2,25/02/2022,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,sight,5
+F6,3,forest,2,25/02/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J1,4,jhum,2,26/02/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,2
+J1,4,jhum,2,26/02/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,5
+J6,4,jhum,2,26/02/2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,sight,1
+J6,4,jhum,2,26/02/2022,post-winter,Red-throated Thrush,Turdus ruficollis,Turdidae,Passeriformes,sight,1
+B7,5,bamboo,3,19/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+J7,4,jhum,2,26/02/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,call,1
+J7,4,jhum,2,26/02/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,2
+B4,3,bamboo,2,27/02/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,2
+F2,3,forest,2,27/02/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,3,forest,2,27/02/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F2,3,forest,2,27/02/2022,post-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,call,1
+F5,2,forest,1,02/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F2,3,forest,2,27/02/2022,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F2,3,forest,2,27/02/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F1,3,forest,2,02/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F4,1,forest,1,10/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B4,4,bamboo,2,02/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B4,4,bamboo,2,02/03/2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B4,4,bamboo,2,02/03/2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,sight,1
+F1,3,forest,2,02/03/2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,1
+F1,3,forest,2,02/03/2022,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,1
+F1,3,forest,2,02/03/2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,1
+A1,3,abandoned,2,03/03/2022,post-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,4
+A1,3,abandoned,2,03/03/2022,post-winter,Grey-sided Bush Warbler,Cettia brunnifrons,Scotocercidae,Passeriformes,sight,1
+A2,4,abandoned,2,03/03/2022,post-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,3
+A2,4,abandoned,2,03/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B2,4,bamboo,2,03/03/2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,sight,1
+B3,4,bamboo,2,03/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B3,4,bamboo,2,03/03/2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B3,4,bamboo,2,03/03/2022,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,sight,2
+B1,3,bamboo,2,04/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,3,bamboo,2,04/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B1,3,bamboo,2,04/03/2022,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B1,3,bamboo,2,04/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B1,3,bamboo,2,04/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,1
+B1,3,bamboo,2,04/03/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B3,2,bamboo,1,15/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B1,3,bamboo,2,04/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,2
+B7,3,bamboo,2,04/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B7,3,bamboo,2,04/03/2022,post-winter,Speckled Piculet,Picumnus innominatus,Picidae,Piciformes,sight,1
+B7,3,bamboo,2,04/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B7,3,bamboo,2,04/03/2022,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B8,3,bamboo,2,04/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B8,3,bamboo,2,04/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B8,3,bamboo,2,04/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,1
+B8,3,bamboo,2,04/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B8,3,bamboo,2,04/03/2022,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,sight,1
+F4,3,forest,2,05/03/2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F4,3,forest,2,05/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F7,2,forest,1,17/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,sight,5
+F7,3,forest,2,05/03/2022,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,sight,5
+F7,3,forest,2,05/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+J8,3,jhum,2,05/03/2022,post-winter,Dark-rumped Rosefinch,Carpodacus edwardsii,Fringillidae,Passeriformes,sight,2
+F3,4,forest,2,06/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F3,4,forest,2,06/03/2022,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,call,1
+B1,2,bamboo,1,21/12/2021,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F8,4,forest,2,06/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,2
+F5,4,forest,2,07/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F5,4,forest,2,07/03/2022,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Hair-crested Drongo,Dicrurus hottentottus,Dicruridae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,1
+F5,4,forest,2,07/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,1
+F5,4,forest,2,07/03/2022,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F5,4,forest,2,07/03/2022,post-winter,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,sight,5
+F5,4,forest,2,07/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,2
+F6,4,forest,2,07/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F6,4,forest,2,07/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F6,4,forest,2,07/03/2022,post-winter,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,sight,1
+B4,4,bamboo,2,08/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B4,4,bamboo,2,08/03/2022,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B4,4,bamboo,2,08/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,3
+F2,4,forest,2,08/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F2,4,forest,2,08/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F2,4,forest,2,08/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,sight,1
+F2,4,forest,2,08/03/2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F2,4,forest,2,08/03/2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F2,4,forest,2,08/03/2022,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F2,4,forest,2,08/03/2022,post-winter,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,sight,5
+F2,4,forest,2,08/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F1,4,forest,2,09/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+F1,4,forest,2,09/03/2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,sight,2
+F1,4,forest,2,09/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A1,4,abandoned,2,10/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A1,4,abandoned,2,10/03/2022,post-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,sight,3
+A1,4,abandoned,2,10/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A5,3,abandoned,2,10/03/2022,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,call,2
+J4,3,jhum,2,10/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,2
+J4,3,jhum,2,10/03/2022,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J4,3,jhum,2,10/03/2022,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+J4,3,jhum,2,10/03/2022,post-winter,White-collared Blackbird,Turdus albocinctus,Turdidae,Passeriformes,sight,1
+J5,3,jhum,2,10/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J5,3,jhum,2,10/03/2022,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,sight,2
+B1,4,bamboo,2,11/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,sight,1
+B7,4,bamboo,2,11/03/2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B7,4,bamboo,2,11/03/2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B8,4,bamboo,2,11/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B8,4,bamboo,2,11/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,1
+B8,4,bamboo,2,11/03/2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B8,4,bamboo,2,11/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,2
+B5,3,bamboo,2,12/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B5,3,bamboo,2,12/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B6,3,bamboo,2,12/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B6,3,bamboo,2,12/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B6,3,bamboo,2,12/03/2022,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,2
+B6,3,bamboo,2,12/03/2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B6,3,bamboo,2,12/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,sight,2
+F4,4,forest,2,13/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,2
+F4,4,forest,2,13/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,sight,1
+F4,4,forest,2,13/03/2022,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,sight,3
+B2,3,bamboo,2,22/02/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Sikkim Wedge-billed Babbler,Stachyris humei,Timaliidae,Passeriformes,sight,1
+F4,4,forest,2,13/03/2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,1
+F4,4,forest,2,13/03/2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Yellow-billed Blue-Magpie,Urocissa flavirostris,Corvidae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,sight,1
+F7,4,forest,2,13/03/2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,5
+F7,4,forest,2,13/03/2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,1
+F7,4,forest,2,13/03/2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F7,4,forest,2,13/03/2022,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,call,1
+J8,4,jhum,2,13/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A6,3,abandoned,2,14/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A6,3,abandoned,2,14/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+A7,3,abandoned,2,14/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A7,3,abandoned,2,14/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A7,3,abandoned,2,14/03/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+A8,3,abandoned,2,14/03/2022,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A8,3,abandoned,2,14/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A3,3,abandoned,2,15/03/2022,post-winter,Aberrant Bush Warbler,Horornis flavolivaceus,Scotocercidae,Passeriformes,sight,1
+A3,3,abandoned,2,15/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+A3,3,abandoned,2,15/03/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+A4,3,abandoned,2,15/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J2,3,jhum,2,15/03/2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,sight,1
+J3,3,jhum,2,15/03/2022,post-winter,White-collared Blackbird,Turdus albocinctus,Turdidae,Passeriformes,sight,2
+A5,4,abandoned,2,18/03/2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,sight,1
+A5,4,abandoned,2,18/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A5,4,abandoned,2,18/03/2022,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,4
+J4,4,jhum,2,18/03/2022,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,sight,1
+J4,4,jhum,2,18/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J4,4,jhum,2,18/03/2022,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,2
+J4,4,jhum,2,18/03/2022,post-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+J4,4,jhum,2,18/03/2022,post-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,1
+J4,4,jhum,2,18/03/2022,post-winter,Red-throated Thrush,Turdus ruficollis,Turdidae,Passeriformes,sight,1
+J4,4,jhum,2,18/03/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+J5,4,jhum,2,18/03/2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,sight,1
+J5,4,jhum,2,18/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+B5,4,bamboo,2,19/03/2022,post-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,call,1
+B5,4,bamboo,2,19/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B5,4,bamboo,2,19/03/2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B5,4,bamboo,2,19/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B5,4,bamboo,2,19/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B5,4,bamboo,2,19/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B6,4,bamboo,2,19/03/2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,1
+B6,4,bamboo,2,19/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,sight,1
+B6,4,bamboo,2,19/03/2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+A6,4,abandoned,2,23/03/2022,post-winter,Bar-winged Flycatcher-shrike,Hemipus picatus,Vangidae,Passeriformes,sight,5
+A6,4,abandoned,2,23/03/2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,2
+A7,4,abandoned,2,23/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A7,4,abandoned,2,23/03/2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A8,4,abandoned,2,23/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,4
+A3,4,abandoned,2,25/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+A3,4,abandoned,2,25/03/2022,post-winter,Grey-backed Shrike,Lanius tephronotus,Laniidae,Passeriformes,sight,1
+A3,4,abandoned,2,25/03/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+A4,4,abandoned,2,25/03/2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,2
+J2,4,jhum,2,25/03/2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J2,4,jhum,2,25/03/2022,post-winter,Red-throated Thrush,Turdus ruficollis,Turdidae,Passeriformes,sight,1
+J3,4,jhum,2,25/03/2022,post-winter,Oriental Turtle-Dove,Streptopelia orientalis,Columbidae,Columbiformes,sight,4
+J3,4,jhum,2,25/03/2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,5
+B5,7,bamboo,4,19/02/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+J6,5,jhum,3,31/10/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+J6,5,jhum,3,31/10/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,3
+J7,5,jhum,3,31/10/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,1
+F5,5,forest,3,01/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+F5,5,forest,3,01/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F3,3,forest,2,24/02/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F6,5,forest,3,01/11/2022,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,sight,1
+F6,5,forest,3,01/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F6,5,forest,3,01/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,sight,2
+F6,5,forest,3,01/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F6,5,forest,3,01/11/2022,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,sight,1
+F6,5,forest,3,01/11/2022,pre-winter,NA,NA,NA,NA,call,1
+A2,5,abandoned,3,02/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,3
+A2,5,abandoned,3,02/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A2,5,abandoned,3,02/11/2022,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,sight,5
+B2,5,bamboo,3,02/11/2022,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+J1,5,jhum,3,02/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J1,5,jhum,3,02/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,1
+J1,5,jhum,3,02/11/2022,pre-winter,Pale-footed Bush Warbler,Hemitesia pallidipes,Scotocercidae,Passeriformes,sight,2
+J1,5,jhum,3,02/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,2
+A1,5,abandoned,3,03/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B1,5,bamboo,3,03/11/2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B3,5,bamboo,3,03/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B4,5,bamboo,3,04/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,sight,6
+F2,5,forest,3,04/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Bar-winged Flycatcher-Shrike,Hemipus picatus,Vangidae,Passeriformes,sight,2
+F2,5,forest,3,04/11/2022,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,sight,4
+F2,5,forest,3,04/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F2,5,forest,3,04/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A5,5,abandoned,3,05/11/2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,call,1
+A5,5,abandoned,3,05/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+A5,5,abandoned,3,05/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,2
+A5,5,abandoned,3,05/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,call,1
+J4,5,jhum,3,05/11/2022,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,2
+J4,5,jhum,3,05/11/2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,2
+J5,5,jhum,3,05/11/2022,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,2
+J5,5,jhum,3,05/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J5,5,jhum,3,05/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,1
+J6,6,jhum,3,07/11/2022,pre-winter,NA,NA,NA,NA,NA,NA
+J7,6,jhum,3,07/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J7,6,jhum,3,07/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,1
+F5,6,forest,3,08/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F5,6,forest,3,08/11/2022,pre-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,1
+F5,6,forest,3,08/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F6,6,forest,3,08/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F6,6,forest,3,08/11/2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F6,6,forest,3,08/11/2022,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,call,1
+F6,6,forest,3,08/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+A2,6,abandoned,3,09/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,5
+A2,6,abandoned,3,09/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,5
+B2,6,bamboo,3,09/11/2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B2,6,bamboo,3,09/11/2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B2,6,bamboo,3,09/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B2,6,bamboo,3,09/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,2
+B2,6,bamboo,3,09/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,2
+J1,6,jhum,3,09/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J1,6,jhum,3,09/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,3
+J1,6,jhum,3,09/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,sight,4
+A1,6,abandoned,3,10/11/2022,pre-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,sight,2
+A1,6,abandoned,3,10/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+A1,6,abandoned,3,10/11/2022,pre-winter,Grey-sided Bush Warbler,Cettia brunnifrons,Scotocercidae,Passeriformes,sight,2
+A1,6,abandoned,3,10/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,7
+B1,6,bamboo,3,10/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F2,3,forest,2,27/02/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,sight,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F1,3,forest,2,02/03/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Lesser Shortwing,Brachypteryx leucophris,Muscicapidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,sight,3
+F2,6,forest,3,11/11/2022,pre-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F2,6,forest,3,11/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A5,6,abandoned,3,12/11/2022,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A5,6,abandoned,3,12/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A5,6,abandoned,3,12/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,3
+A5,6,abandoned,3,12/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+J4,6,jhum,3,12/11/2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J4,6,jhum,3,12/11/2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+J5,6,jhum,3,12/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+J5,6,jhum,3,12/11/2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+B5,5,bamboo,3,14/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,5
+B4,7,bamboo,4,02/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,2
+B1,3,bamboo,2,04/03/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,2
+F1,5,forest,3,15/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,sight,1
+F1,5,forest,3,15/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,2
+F1,5,forest,3,15/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,2
+F1,5,forest,3,15/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+B4,8,bamboo,4,11/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F1,5,forest,3,15/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F8,5,forest,3,15/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A6,5,abandoned,3,16/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A6,5,abandoned,3,16/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A6,5,abandoned,3,16/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+A7,5,abandoned,3,16/11/2022,pre-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,sight,1
+A7,5,abandoned,3,16/11/2022,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A7,5,abandoned,3,16/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+A7,5,abandoned,3,16/11/2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,sight,1
+A7,5,abandoned,3,16/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+A8,5,abandoned,3,16/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+A8,5,abandoned,3,16/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A8,5,abandoned,3,16/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+A8,5,abandoned,3,16/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,2
+F3,5,forest,3,16/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,10
+F3,5,forest,3,16/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,sight,3
+F3,5,forest,3,16/11/2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F7,3,forest,2,05/03/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+F1,1,forest,1,28/10/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,2
+F3,5,forest,3,16/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F3,5,forest,3,16/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A3,5,abandoned,3,17/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A3,5,abandoned,3,17/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,call,1
+A4,5,abandoned,3,17/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+A4,5,abandoned,3,17/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J2,5,jhum,3,17/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J2,5,jhum,3,17/11/2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,call,1
+J3,5,jhum,3,17/11/2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J3,5,jhum,3,17/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,sight,4
+F4,5,forest,3,18/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F4,5,forest,3,18/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F7,5,forest,3,18/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F7,5,forest,3,18/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F7,5,forest,3,18/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+F7,5,forest,3,18/11/2022,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F7,5,forest,3,18/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J8,5,jhum,3,18/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J8,5,jhum,3,18/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F3,1,forest,1,25/11/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,4
+B7,5,bamboo,3,19/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B7,5,bamboo,3,19/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B8,5,bamboo,3,19/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B8,5,bamboo,3,19/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B8,5,bamboo,3,19/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B8,5,bamboo,3,19/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B8,5,bamboo,3,19/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,sight,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Large-billed Crow,Corvus macrorhynchos,Corvidae,Passeriformes,call,2
+F8,4,forest,2,06/03/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F4,4,forest,2,13/03/2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F3,2,forest,1,08/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B6,6,bamboo,3,21/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,sight,8
+F1,6,forest,3,22/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,sight,2
+F1,6,forest,3,22/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F5,5,forest,3,01/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,3
+F1,6,forest,3,22/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,sight,1
+F8,6,forest,3,22/11/2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F8,6,forest,3,22/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A6,6,abandoned,3,23/11/2022,pre-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,call,1
+A6,6,abandoned,3,23/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A6,6,abandoned,3,23/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A6,6,abandoned,3,23/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B1,6,bamboo,3,10/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+A7,6,abandoned,3,23/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+A7,6,abandoned,3,23/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A7,6,abandoned,3,23/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+A8,6,abandoned,3,23/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+A8,6,abandoned,3,23/11/2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+F3,6,forest,3,23/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,sight,20
+F3,6,forest,3,23/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+B4,6,bamboo,3,11/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+B1,1,bamboo,1,12/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Yellow-vented Warbler,Phylloscopus cantator,Phylloscopidae,Passeriformes,sight,20
+A3,6,abandoned,3,24/11/2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,sight,1
+A3,6,abandoned,3,24/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+A3,6,abandoned,3,24/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+A3,6,abandoned,3,24/11/2022,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,sight,1
+A4,6,abandoned,3,24/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A4,6,abandoned,3,24/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+A4,6,abandoned,3,24/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+J2,6,jhum,3,24/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,call,1
+J2,6,jhum,3,24/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+J3,6,jhum,3,24/11/2022,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,1
+J3,6,jhum,3,24/11/2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,3
+F4,6,forest,3,26/11/2022,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,sight,1
+F4,6,forest,3,26/11/2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,sight,1
+F4,6,forest,3,26/11/2022,pre-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F4,6,forest,3,26/11/2022,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,sight,3
+F7,6,forest,3,26/11/2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B6,5,bamboo,3,14/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F7,6,forest,3,26/11/2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J8,6,jhum,3,26/11/2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,2
+J8,6,jhum,3,26/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J8,6,jhum,3,26/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+J8,6,jhum,3,26/11/2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+J8,6,jhum,3,26/11/2022,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,sight,5
+B2,2,bamboo,1,15/12/2021,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B7,6,bamboo,3,27/11/2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B8,6,bamboo,3,27/11/2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B8,6,bamboo,3,27/11/2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B8,6,bamboo,3,27/11/2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B8,6,bamboo,3,27/11/2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B8,6,bamboo,3,27/11/2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+J6,7,jhum,4,18/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J6,7,jhum,4,18/02/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+J6,3,jhum,2,18/02/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,4
+J7,7,jhum,4,18/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,1
+B5,7,bamboo,4,19/02/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B5,7,bamboo,4,19/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+F3,3,forest,2,24/02/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,5
+B5,7,bamboo,4,19/02/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+B5,7,bamboo,4,19/02/2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B6,7,bamboo,4,19/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,2
+B6,7,bamboo,4,19/02/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+J6,4,jhum,2,26/02/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,5
+B6,7,bamboo,4,19/02/2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Grey-sided Laughingthrush,Pterorhinus caerulatus,Leiotrichidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B7,7,bamboo,4,20/02/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,sight,1
+B8,7,bamboo,4,20/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B8,7,bamboo,4,20/02/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J1,7,jhum,4,20/02/2023,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,3
+J1,7,jhum,4,20/02/2023,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,sight,7
+J1,7,jhum,4,20/02/2023,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J1,7,jhum,4,20/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+F3,5,forest,3,16/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+J1,7,jhum,4,20/02/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,25
+A1,7,abandoned,4,24/02/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A1,7,abandoned,4,24/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+A1,7,abandoned,4,24/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+A2,7,abandoned,4,24/02/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A2,7,abandoned,4,24/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+A2,7,abandoned,4,24/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+A2,7,abandoned,4,24/02/2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,sight,1
+A2,7,abandoned,4,24/02/2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B1,7,bamboo,4,24/02/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+J3,4,jhum,2,25/03/2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,4
+B1,7,bamboo,4,24/02/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B2,7,bamboo,4,24/02/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J6,8,jhum,4,26/02/2023,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J6,8,jhum,4,26/02/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+J6,8,jhum,4,26/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J7,8,jhum,4,26/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+J7,8,jhum,4,26/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A5,7,abandoned,4,27/02/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A5,7,abandoned,4,27/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+A5,7,abandoned,4,27/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+A5,7,abandoned,4,27/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A5,7,abandoned,4,27/02/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B5,8,bamboo,4,27/02/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B5,8,bamboo,4,27/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B5,8,bamboo,4,27/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B5,8,bamboo,4,27/02/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B6,8,bamboo,4,27/02/2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+J4,7,jhum,4,27/02/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J4,7,jhum,4,27/02/2023,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,2
+J4,7,jhum,4,27/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J4,7,jhum,4,27/02/2023,post-winter,Shikra,Accipiter badius,Accipitridae,Accipitriformes,sight,1
+J5,7,jhum,4,27/02/2023,post-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,2
+J5,7,jhum,4,27/02/2023,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,call,1
+J5,7,jhum,4,27/02/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J5,7,jhum,4,27/02/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,3
+B3,7,bamboo,4,28/02/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,sight,1
+B3,7,bamboo,4,28/02/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Grey-sided Laughingthrush,Pterorhinus caerulatus,Leiotrichidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,call,1
+B5,6,bamboo,3,21/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,sight,1
+B3,7,bamboo,4,28/02/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,3
+B3,7,bamboo,4,28/02/2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,call,1
+B2,5,bamboo,3,02/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,7,bamboo,4,28/02/2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+J1,8,jhum,4,28/02/2023,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,2
+J1,8,jhum,4,28/02/2023,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,sight,4
+J1,8,jhum,4,28/02/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+J1,8,jhum,4,28/02/2023,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,1
+J1,8,jhum,4,28/02/2023,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,sight,2
+J1,8,jhum,4,28/02/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+A6,7,abandoned,4,01/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+B3,6,bamboo,3,10/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+A7,7,abandoned,4,01/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+A7,7,abandoned,4,01/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A7,7,abandoned,4,01/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+A7,7,abandoned,4,01/03/2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,call,1
+A8,7,abandoned,4,01/03/2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,call,1
+A3,7,abandoned,4,02/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A3,7,abandoned,4,02/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+A3,7,abandoned,4,02/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A3,7,abandoned,4,02/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,8
+B5,5,bamboo,3,14/11/2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,5
+A4,7,abandoned,4,02/03/2023,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,sight,1
+A4,7,abandoned,4,02/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+A4,7,abandoned,4,02/03/2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+B4,7,bamboo,4,02/03/2023,post-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,sight,1
+B4,7,bamboo,4,02/03/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+J6,7,jhum,4,18/02/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,sight,4
+B4,7,bamboo,4,02/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F7,7,forest,4,02/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F7,7,forest,4,02/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,sight,3
+B6,6,bamboo,3,21/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F7,7,forest,4,02/03/2023,post-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,sight,6
+F7,7,forest,4,02/03/2023,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,sight,7
+F7,7,forest,4,02/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,1
+J2,7,jhum,4,02/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J2,7,jhum,4,02/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+J2,7,jhum,4,02/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,2
+J3,7,jhum,4,02/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,sight,1
+J3,7,jhum,4,02/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+J3,7,jhum,4,02/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,call,1
+A1,8,abandoned,4,03/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+A1,8,abandoned,4,03/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,sight,1
+A1,8,abandoned,4,03/03/2023,post-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,sight,4
+A2,8,abandoned,4,03/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+A2,8,abandoned,4,03/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A2,8,abandoned,4,03/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,3
+B7,8,bamboo,4,03/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F1,6,forest,3,22/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B8,8,bamboo,4,03/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Striated Yuhina,Staphida castaniceps,Zosteropidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,sight,4
+F5,7,forest,4,04/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F5,7,forest,4,04/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,sight,10
+F6,7,forest,4,04/03/2023,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Hair-crested Drongo,Dicrurus hottentottus,Dicruridae,Passeriformes,call,1
+F3,6,forest,3,23/11/2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,1
+F2,7,forest,4,05/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,2
+F2,7,forest,4,05/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,2
+F2,7,forest,4,05/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F2,7,forest,4,05/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,2
+F3,7,forest,4,05/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F3,7,forest,4,05/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+A5,8,abandoned,4,07/03/2023,post-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,sight,8
+A5,8,abandoned,4,07/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+A5,8,abandoned,4,07/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,sight,1
+B3,7,bamboo,4,28/02/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+A5,8,abandoned,4,07/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,sight,2
+B1,8,bamboo,4,07/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+B7,8,bamboo,4,03/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,sight,2
+B1,8,bamboo,4,07/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,1
+B2,8,bamboo,4,07/03/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+J4,8,jhum,4,07/03/2023,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,sight,1
+J4,8,jhum,4,07/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J4,8,jhum,4,07/03/2023,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,sight,2
+J4,8,jhum,4,07/03/2023,post-winter,Long-tailed Shrike,Lanius schach,Laniidae,Passeriformes,sight,1
+J4,8,jhum,4,07/03/2023,post-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,sight,6
+J4,8,jhum,4,07/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+J5,8,jhum,4,07/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J5,8,jhum,4,07/03/2023,post-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,sight,3
+J5,8,jhum,4,07/03/2023,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,sight,3
+J5,8,jhum,4,07/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,2
+A6,8,abandoned,4,08/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,2
+A6,8,abandoned,4,08/03/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+A6,8,abandoned,4,08/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A6,8,abandoned,4,08/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+A6,8,abandoned,4,08/03/2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,call,1
+A7,8,abandoned,4,08/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A7,8,abandoned,4,08/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+A8,8,abandoned,4,08/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,sight,3
+A8,8,abandoned,4,08/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+A8,8,abandoned,4,08/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A6,7,abandoned,4,01/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,sight,3
+B3,8,bamboo,4,08/03/2023,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F6,7,forest,4,04/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,call,2
+B3,8,bamboo,4,08/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+B3,8,bamboo,4,08/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J8,7,jhum,4,08/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J8,7,jhum,4,08/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+J8,7,jhum,4,08/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,sight,1
+J8,7,jhum,4,08/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J8,7,jhum,4,08/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J8,7,jhum,4,08/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,sight,2
+F1,7,forest,4,09/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,sight,1
+F1,7,forest,4,09/03/2023,post-winter,Himalayan Cutia,Cutia nipalensis,Leiothrichidae,Passeriformes,sight,6
+F1,7,forest,4,09/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,4
+F1,7,forest,4,09/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,3
+F1,7,forest,4,09/03/2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,sight,5
+F1,7,forest,4,09/03/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+F1,7,forest,4,09/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Black-chinned Yuhina,Yuhina nigrimenta,Zosteropidae,Passeriformes,sight,3
+F4,7,forest,4,09/03/2023,post-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,sight,3
+F4,7,forest,4,09/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,call,1
+B1,8,bamboo,4,07/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,call,1
+F4,7,forest,4,09/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F7,7,forest,4,09/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Dark-sided Thrush,Zoothera marginata,Turdidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F8,7,forest,4,10/03/2023,post-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,sight,1
+F8,7,forest,4,10/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+A3,8,abandoned,4,11/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,2
+A3,8,abandoned,4,11/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,1
+A4,8,abandoned,4,11/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+A4,8,abandoned,4,11/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+A4,8,abandoned,4,11/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+A4,8,abandoned,4,11/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,call,1
+B4,8,bamboo,4,11/03/2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,call,1
+B4,8,bamboo,4,11/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,call,1
+B4,8,bamboo,4,11/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+B4,8,bamboo,4,11/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,sight,1
+A3,7,abandoned,4,02/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F7,8,forest,4,11/03/2023,post-winter,Black-chinned Yuhina,Yuhina nigrimenta,Zosteropidae,Passeriformes,sight,8
+F7,8,forest,4,11/03/2023,post-winter,Chestnut-tailed Minla,Actinodura strigula,Leiothrichidae,Passeriformes,sight,2
+F7,8,forest,4,11/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,sight,10
+F4,7,forest,4,09/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F7,8,forest,4,11/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F7,8,forest,4,11/03/2023,post-winter,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,sight,1
+F7,8,forest,4,11/03/2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,call,1
+F7,8,forest,4,11/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,call,1
+J2,8,jhum,4,11/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J2,8,jhum,4,11/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,sight,1
+J2,8,jhum,4,11/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J2,8,jhum,4,11/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,sight,3
+J2,8,jhum,4,11/03/2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,call,1
+J2,8,jhum,4,11/03/2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+J3,8,jhum,4,11/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,sight,1
+J3,8,jhum,4,11/03/2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,call,1
+J3,8,jhum,4,11/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J3,8,jhum,4,11/03/2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,call,1
+J3,8,jhum,4,11/03/2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F5,8,forest,4,13/03/2023,post-winter,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,2
+F6,8,forest,4,13/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,1
+F6,8,forest,4,13/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F6,8,forest,4,13/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,sight,3
+F2,8,forest,4,14/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Black-chinned Yuhina,Yuhina nigrimenta,Zosteropidae,Passeriformes,sight,8
+F2,8,forest,4,14/03/2023,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Crimson-naped Woodpecker,Dryobates cathpharius,Picidae,Piciformes,sight,2
+F2,8,forest,4,14/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Golden-throated Barbet,Psilopogon franklinii,Megalaimidae,Piciformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,call,2
+F2,8,forest,4,14/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,sight,2
+F2,8,forest,4,14/03/2023,post-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,sight,1
+F2,8,forest,4,14/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,sight,1
+F2,8,forest,4,14/03/2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,sight,2
+F2,8,forest,4,14/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,1
+F2,8,forest,4,14/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F2,8,forest,4,14/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,2
+F2,8,forest,4,14/03/2023,post-winter,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,sight,5
+F3,8,forest,4,14/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Golden-throated Barbet,Psilopogon franklinii,Megalaimidae,Piciformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,sight,1
+F3,8,forest,4,14/03/2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,call,1
+F3,8,forest,4,14/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,sight,6
+F3,8,forest,4,14/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,4
+A8,8,abandoned,4,08/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1
+F8,8,forest,4,16/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,sight,1
+F1,8,forest,4,18/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Crested Serpent-Eagle,Spilornis cheela,Accipitridae,Accipitriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,sight,2
+F1,8,forest,4,18/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,sight,3
+F1,8,forest,4,18/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F1,8,forest,4,18/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,sight,20
+F4,8,forest,4,18/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,call,3
+F4,8,forest,4,18/03/2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,sight,20
+F4,8,forest,4,18/03/2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,sight,3
+F4,8,forest,4,18/03/2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,call,1
+F4,8,forest,4,18/03/2023,post-winter,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,sight,1
+F4,8,forest,4,18/03/2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,sight,5
+F7,8,forest,4,18/03/2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,call,1
+F7,8,forest,4,18/03/2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,call,1
+J8,8,jhum,4,18/03/2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,call,1
+J8,8,jhum,4,18/03/2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,call,1
+J8,8,jhum,4,18/03/2023,post-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,call,1
+J8,8,jhum,4,18/03/2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,call,1

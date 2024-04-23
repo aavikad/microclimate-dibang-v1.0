@@ -1,0 +1,489 @@
+lulc,year,season,common_name,scientific_name,family,order,Beak.Length_Culmen,Beak.Length_Nares,Beak.Width,Beak.Depth,Tarsus.Length,Wing.Length,Kipps.Distance,Secondary1,Hand-Wing.Index,Tail.Length,Mass,Trophic.Level,Trophic.Niche,Primary.Lifestyle
+bamboo,2021-2022,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,7.4,4.3,2.5,3,15.5,48.6,8.6,40,17.6,46.8,6.1,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+forest,2021-2022,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+forest,2021-2022,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+forest,2021-2022,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+forest,2021-2022,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+bamboo,2021-2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,14.1,7.9,3.4,3.4,20.2,81,20.8,59.5,25.9,58.4,21.3,Carnivore,Invertivore,Terrestrial
+jhum,2021-2022,post-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,14.1,7.9,3.4,3.4,20.2,81,20.8,59.5,25.9,58.4,21.3,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,pre-winter,Streaked Spiderhunter,Arachnothera magna,Nectariniidae,Passeriformes,46.8,35.9,5.9,5.6,20.6,88.7,16.5,72.5,18.5,49.6,30.7,Omnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,21.1,7.7,5,6.2,41.6,136.5,34.5,102,25.2,56,344.5,Herbivore,Omnivore,Terrestrial
+bamboo,2021-2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Dark-rumped Rosefinch,Carpodacus edwardsii,Fringillidae,Passeriformes,13.4,10.1,7.8,8.8,21.3,78.1,15.9,62.2,20.4,68.7,26.5,Herbivore,Granivore,Terrestrial
+forest,2021-2022,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,17.6,10.2,2.4,2.6,16.8,68.8,13.2,55.1,19.3,79.2,10.4,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,17.6,10.2,2.4,2.6,16.8,68.8,13.2,55.1,19.3,79.2,10.4,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Grey-sided Bush Warbler,Cettia brunnifrons,Scotocercidae,Passeriformes,11,5.2,2.1,2.4,18.2,45.4,4.8,40.7,10.7,43.2,7.3,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+abandoned,2021-2022,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,24.7,14.9,4.6,5.4,17.6,93.6,18.1,74.7,19.5,71.4,32.3,Omnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,24.7,14.9,4.6,5.4,17.6,93.6,18.1,74.7,19.5,71.4,32.3,Omnivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+forest,2021-2022,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+forest,2021-2022,pre-winter,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,23.2,10.6,4.3,5.2,26.6,226,92.8,137.5,40.3,136.6,308.5,Herbivore,Frugivore,Insessorial
+forest,2021-2022,post-winter,Speckled Wood-Pigeon,Columba hodgsonii,Columbidae,Columbiformes,23.2,10.6,4.3,5.2,26.6,226,92.8,137.5,40.3,136.6,308.5,Herbivore,Frugivore,Insessorial
+forest,2021-2022,post-winter,Himalayan Cutia,Cutia nipalensis,Leiothrichidae,Passeriformes,21.7,11.8,4.8,6.1,28.1,88,14.1,73.9,16,61,47.2,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,15,8.9,2.6,3.3,19.6,55,5.4,50,9.8,47,10.3,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+abandoned,2021-2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+bamboo,2021-2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+bamboo,2021-2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Collared Treepie,Dendrocitta frontalis,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,11,7.3,3.2,3,12,47.3,10.2,37.6,21.3,25,5.6,Herbivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,11,7.3,3.2,3,12,47.3,10.2,37.6,21.3,25,5.6,Herbivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Bronzed Drongo,Dicrurus aeneus,Dicruridae,Passeriformes,21.6,13.3,7.6,6.1,16,116.9,34.4,82.5,29.4,84.6,26,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Hair-crested Drongo,Dicrurus hottentottus,Dicruridae,Passeriformes,37.5,27.1,10.5,11.5,25.2,159.9,39.7,121.6,24.5,138.4,79.2,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,25.5,15.5,8,8.6,19.5,132.7,33.8,99.3,25.4,111.3,43.1,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,25.5,15.5,8,8.6,19.5,132.7,33.8,99.3,25.4,111.3,43.1,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,13.1,8.2,2.4,3.1,16.8,45.6,4.2,41.5,9.3,30.2,5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,13.1,8.2,2.4,3.1,16.8,45.6,4.2,41.5,9.3,30.2,5,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+jhum,2021-2022,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+abandoned,2021-2022,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+abandoned,2021-2022,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+bamboo,2021-2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+bamboo,2021-2022,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,13.1,8.2,2.4,3.1,16.8,45.6,4.2,41.5,9.3,30.2,5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+bamboo,2021-2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+bamboo,2021-2022,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+forest,2021-2022,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2021-2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2021-2022,pre-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,15.4,8.4,3.9,4.2,16.7,66.4,11.3,54.8,17.1,44,11.8,Omnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,15.4,8.4,3.9,4.2,16.7,66.4,11.3,54.8,17.1,44,11.8,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Peregrine Falcon,Falco peregrinus,Falconidae,Falconiformes,31.1,18.4,13.7,15.4,45.1,314.7,165,152.6,52.2,143,760,Carnivore,Vertivore,Aerial
+jhum,2021-2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiotrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2021-2022,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiotrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,20,11.3,9.7,10.7,17.2,144.8,54.8,91.2,37.5,170.8,80.3,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Bar-winged Flycatcher-shrike,Hemipus picatus,Vangidae,Passeriformes,12.2,8.4,4.3,3.7,11.2,60.7,9.4,52,15.3,55.5,9,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,post-winter,Aberrant Bush Warbler,Horornis flavolivaceus,Scotocercidae,Passeriformes,13.4,6.8,2.8,2.6,22.2,52.6,7.2,45,13.8,51.7,8,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+abandoned,2021-2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,25.2,14.3,4.9,5.7,18,117.8,29.1,88.7,24.7,97.8,51.8,Herbivore,Frugivore,Insessorial
+forest,2021-2022,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,25.2,14.3,4.9,5.7,18,117.8,29.1,88.7,24.7,97.8,51.8,Herbivore,Frugivore,Insessorial
+forest,2021-2022,pre-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,26,15.8,5,5.5,18.3,106,19.2,86.8,18.1,107.8,32.5,Omnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,26,15.8,5,5.5,18.3,106,19.2,86.8,18.1,107.8,32.5,Omnivore,Omnivore,Insessorial
+jhum,2021-2022,pre-winter,Long-tailed Shrike,Lanius schach,Laniidae,Passeriformes,21.8,13.2,6.8,9.2,29.2,92.4,18.6,73.2,20.3,123.3,51.5,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Grey-backed Shrike,Lanius tephronotus,Laniidae,Passeriformes,21.6,11.5,6.4,8.9,28.5,98.6,20.4,78.2,20.6,109,46.4,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Grey-backed Shrike,Lanius tephronotus,Laniidae,Passeriformes,21.6,11.5,6.4,8.9,28.5,98.6,20.4,78.2,20.6,109,46.4,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,11.8,8.8,6.7,7.5,14,52.6,11.9,42.4,22,39,13.6,Herbivore,Granivore,Generalist
+abandoned,2021-2022,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,11.8,8.8,6.7,7.5,14,52.6,11.9,42.4,22,39,13.6,Herbivore,Granivore,Generalist
+jhum,2021-2022,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,12,8.3,6.7,7.8,13.1,50.7,10.6,40.1,20.9,39.8,12.3,Herbivore,Granivore,Insessorial
+forest,2021-2022,pre-winter,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,11.3,8.5,4.3,4.7,17.8,76.5,12.6,64,16.4,55.2,18.8,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,13.2,7,2.7,3.2,19.3,63.6,9.9,53.6,15.6,57.3,14.3,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,13.2,7,2.7,3.2,19.3,63.6,9.9,53.6,15.6,57.3,14.3,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+forest,2021-2022,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+forest,2021-2022,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+bamboo,2021-2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,11.7,6.1,3.7,3.1,16.8,63.2,10.3,52.9,16.4,52.8,12,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,11.7,6.1,3.7,3.1,16.8,63.2,10.3,52.9,16.4,52.8,12,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Rufous-bellied Niltava,Niltava sundara,Muscicapidae,Passeriformes,15.6,8.7,4.1,3.9,20.4,82,14.8,66.2,18.1,68.2,21.1,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Green-backed Tit,Parus monticolus,Paridae,Passeriformes,10.7,7.7,3.5,3.9,16.6,66.2,10.4,55.9,15.7,55.2,14,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,13.2,8.2,5.5,6.5,16.4,67.9,16.7,51.2,24.6,51,21.4,Omnivore,Granivore,Terrestrial
+forest,2021-2022,pre-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,13.6,7.6,4.4,4.1,14.7,83.2,23.5,59.5,28.3,98.8,14.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,13.6,7.6,4.4,4.1,14.7,83.2,23.5,59.5,28.3,98.8,14.5,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,14,8.2,3.2,3.4,22.2,72.5,14.8,57.5,20.5,65.9,16.2,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,13.1,7.4,3.1,3.2,22.1,84.5,19.4,64.4,23.2,69,15.8,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,13.1,7.4,3.1,3.2,22.1,84.5,19.4,64.4,23.2,69,15.8,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,13.1,7.4,3.1,3.2,22.1,84.5,19.4,64.4,23.2,69,15.8,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Muscicapidae,14.5,7.8,3.3,3.2,23.2,82,16.6,65.2,20.2,68.2,17,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,14.5,7.8,3.3,3.2,23.2,82,16.6,65.2,20.2,68.2,17,Omnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Muscicapidae,14.5,7.8,3.3,3.2,23.2,82,16.6,65.2,20.2,68.2,17,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,15.4,8.1,2.8,2.9,22.4,83.1,19.2,64.1,23.1,60.4,16.5,Omnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Black Redstart,Phoenicurus ochruros,Muscicapidae,Passeriformes,15.4,8.1,2.8,2.9,22.4,83.1,19.2,64.1,23.1,60.4,16.5,Omnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,10,6,2.6,2.2,18.3,59,8.9,50.9,14.8,43.8,7,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,9.6,4.9,2.5,2.4,15.4,48.8,9.5,39.3,19.3,37.2,5.3,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,15.3,6.8,2.9,2.7,16.3,57.3,10.4,47.2,18.1,46.2,6.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Grey-crowned Warbler,Phylloscopus tephrocephalus,Phylloscopidae,Passeriformes,11.7,6.2,3.1,2.7,17.5,54.6,7.7,46.6,14.1,46.4,7.3,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,10.9,5.8,2.6,2.6,17.4,52.9,8.6,44.6,16,43.4,6.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,10.9,5.8,2.6,2.6,17.4,52.9,8.6,44.6,16,43.4,6.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Lesser Yellownape,Picus chlorolophus,Picidae,Piciformes,27.5,20.6,6.9,6.6,21.7,129,30.5,97.8,23.8,88.4,65.4,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,12.9,7.2,2.6,3.1,23.3,61.5,4,57.5,6.4,26.2,20.9,Omnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,post-winter,Speckled Piculet,Picumnus innominatus,Picidae,Piciformes,12.1,9.2,4.5,4.6,12,53.4,5.7,47.1,10.7,29.4,10.2,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,pre-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,33.9,24,3.8,6,30,93,6.9,85.6,7.4,107.8,34,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,22.5,15.6,3.3,5.4,28,78.8,7.7,69.8,10,85.4,31.6,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,22.5,15.6,3.3,5.4,28,78.8,7.7,69.8,10,85.4,31.6,Carnivore,Invertivore,Generalist
+jhum,2021-2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,12.2,9.2,5.9,6.9,20.5,86.1,21.9,62.2,26.1,62.6,22.1,Herbivore,Granivore,Generalist
+abandoned,2021-2022,pre-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,12.2,9.2,5.9,6.9,20.5,86.1,21.9,62.2,26.1,62.6,22.1,Herbivore,Granivore,Generalist
+abandoned,2021-2022,post-winter,Dark-breasted Rosefinch,Procarduelis nipalensis,Fringillidae,Passeriformes,12.2,9.2,5.9,6.9,20.5,86.1,21.9,62.2,26.1,62.6,22.1,Herbivore,Granivore,Generalist
+jhum,2021-2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,13.1,7,3.9,3.8,19.6,63.1,10.2,52.2,16.3,57.4,18.1,Omnivore,Invertivore,Terrestrial
+abandoned,2021-2022,pre-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,13.1,7,3.9,3.8,19.6,63.1,10.2,52.2,16.3,57.4,18.1,Omnivore,Invertivore,Terrestrial
+abandoned,2021-2022,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,13.1,7,3.9,3.8,19.6,63.1,10.2,52.2,16.3,57.4,18.1,Omnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,23.5,14.5,5.7,7,35.2,97,7.1,90.2,7.3,106.3,66.2,Omnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+forest,2021-2022,post-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,11.8,5.4,4,3.9,19.9,59.3,10.2,49.2,17.2,41.4,13.3,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,22.5,15.6,3.3,5.4,28,78.8,7.7,69.8,10,85.4,31.6,Carnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+abandoned,2021-2022,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,11.2,6,2.7,2.7,19.1,53.7,7.7,45.6,14.4,41.3,12.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,11.2,6,2.7,2.7,19.1,53.7,7.7,45.6,14.4,41.3,12.5,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Sikkim Wedge-billed Babbler,Stachyris humei,Timaliidae,Passeriformes,24.6,14.8,3.9,6.8,24.9,72.8,4.3,68.4,6,76.8,34.1,Carnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,16.9,9.9,3,4.5,20.5,58,5.6,52.5,9.6,49.8,15.8,Carnivore,Invertivore,Insessorial
+jhum,2021-2022,pre-winter,Oriental Turtle-Dove,Streptopelia orientalis,Columbidae,Columbiformes,21.9,8.3,3.1,4,25.5,176.5,57.2,117.7,32.8,127.2,232.9,Herbivore,Omnivore,Terrestrial
+jhum,2021-2022,post-winter,Oriental Turtle-Dove,Streptopelia orientalis,Columbidae,Columbiformes,21.9,8.3,3.1,4,25.5,176.5,57.2,117.7,32.8,127.2,232.9,Herbivore,Omnivore,Terrestrial
+bamboo,2021-2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,23.5,14.5,5.7,7,35.2,97,7.1,90.2,7.3,106.3,66.2,Omnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+forest,2021-2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+forest,2021-2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,12.5,6.2,3,2.9,22.1,47.6,4.4,42.3,9.4,20.5,7,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+forest,2021-2022,post-winter,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,12.1,6.2,3.2,2.3,19.5,46.1,6,40.3,12.9,44,4.5,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,23.8,11.4,4.4,5.8,36.3,101.8,7,93.8,6.9,122,72.7,Carnivore,Invertivore,Generalist
+bamboo,2021-2022,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+forest,2021-2022,pre-winter,Blue-winged Laughingthrush,Trochalopteron squamatum,Leiotrichidae,Passeriformes,25.4,12,5.4,7.5,37.7,99.8,4,95.8,4,101.2,84,Omnivore,Omnivore,Insessorial
+forest,2021-2022,pre-winter,Scaly Laughingthrush,Trochalopteron subunicolor,Leiothrichidae,Passeriformes,18.8,9.2,4.4,6.2,36.7,92.3,4.7,87.9,5,108.4,65.9,Carnivore,Invertivore,Generalist
+jhum,2021-2022,post-winter,White-collared Blackbird,Turdus albocinctus,Turdidae,Passeriformes,27.6,15.8,5.3,6.7,33,136.2,34.3,101.9,25.1,106.6,99.4,Omnivore,Invertivore,Insessorial
+jhum,2021-2022,post-winter,Red-throated Thrush,Turdus ruficollis,Turdidae,Passeriformes,24.4,12.4,4.7,6.2,31.7,134.2,43.1,91.1,32.1,97.1,80.6,Omnivore,Invertivore,Insessorial
+forest,2021-2022,pre-winter,Yellow-billed Blue-Magpie,Urocissa flavirostris,Corvidae,Passeriformes,39.4,22.9,12.1,13.3,47.6,184.8,26.5,158.3,14.3,392.4,149.2,Carnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,Yellow-billed Blue-Magpie,Urocissa flavirostris,Corvidae,Passeriformes,39.4,22.9,12.1,13.3,47.6,184.8,26.5,158.3,14.3,392.4,149.2,Carnivore,Omnivore,Insessorial
+forest,2021-2022,post-winter,White-naped Yuhina,Yuhina bakeri,Zosteropidae,Passeriformes,12.7,6.5,3.4,3.9,20.2,68,13.8,55.2,20,52.5,17.1,Omnivore,Invertivore,Insessorial
+forest,2021-2022,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,12.8,6.3,3.1,3.3,19.3,62.8,10.3,52.2,16.5,52,16.9,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,pre-winter,Dark-sided Thrush,Zoothera marginata,Turdidae,Passeriformes,33.2,22.4,5.6,6.9,28.2,120.8,30.7,90.1,25.4,76.6,81,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,pre-winter,Long-billed Thrush,Zoothera monticola,Turdidae,Passeriformes,42,28.8,5.9,9.1,33,135.2,33,102.2,24.4,85.2,126,Carnivore,Invertivore,Terrestrial
+abandoned,2022-2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Rufous-faced Warbler,Abroscopus albogularis,Scotocercidae,Passeriformes,9,4.9,2.7,2.3,15.3,43.4,5.7,37.3,13.3,38.7,4.8,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Yellow-bellied Warbler,Abroscopus superciliaris,Scotocercidae,Passeriformes,12.3,7.4,3.1,2.8,16.6,51.2,6.5,44.5,12.7,42.4,6.5,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Shikra,Accipiter badius,Accipitridae,Accipitriformes,20.6,12.1,8.8,11.6,43,186.7,62.5,127.4,32.9,140.6,131.2,Carnivore,Vertivore,Insessorial
+forest,2022-2023,post-winter,Chestnut-tailed Minla,Actinodura strigula,Leiothrichidae,Passeriformes,14.4,6.8,3.5,4,24.6,66.7,9.4,57.4,14.1,69.2,19.2,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,7.4,4.3,2.5,3,15.5,48.6,8.6,40,17.6,46.8,6.1,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,7.4,4.3,2.5,3,15.5,48.6,8.6,40,17.6,46.8,6.1,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Black-throated Tit,Aegithalos concinnus,Aegithalidae,Passeriformes,7.4,4.3,2.5,3,15.5,48.6,8.6,40,17.6,46.8,6.1,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+bamboo,2022-2023,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+bamboo,2022-2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+forest,2022-2023,pre-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+forest,2022-2023,post-winter,Green-tailed Sunbird,Aethopyga nipalensis,Nectariniidae,Passeriformes,22.1,16.4,3.4,3.2,13.2,49.8,9.1,40.6,18.3,53.8,6.9,Omnivore,Nectarivore,Insessorial
+bamboo,2022-2023,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+bamboo,2022-2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+forest,2022-2023,pre-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+forest,2022-2023,post-winter,Black-throated Sunbird,Aethopyga saturata,Nectariniidae,Passeriformes,22,15.4,3.2,3.1,14.1,51.3,8.2,42.4,16.2,62.4,5.3,Herbivore,Nectarivore,Insessorial
+jhum,2022-2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Nepal Fulvetta,Alcippe nipalensis,Leiotrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Nepal Fulvetta,Alcippe nipalensis,Leiothrichidae,Passeriformes,12.2,6.7,2.8,3.9,19.9,56,5.2,50.8,9.2,58.2,15.8,Omnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,White-gorgeted Flycatcher,Anthipes monileger,Muscicapidae,Passeriformes,11.7,6.8,4,3.1,20.4,61.5,10.9,50.6,17.7,47,11,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Olive-backed Pipit,Anthus hodgsoni,Motacillidae,Passeriformes,14.1,7.9,3.4,3.4,20.2,81,20.8,59.5,25.9,58.4,21.3,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,21.1,7.7,5,6.2,41.6,136.5,34.5,102,25.2,56,344.5,Herbivore,Omnivore,Terrestrial
+forest,2022-2023,post-winter,Hill Partridge,Arborophila torqueola,Phasianidae,Galliformes,21.1,7.7,5,6.2,41.6,136.5,34.5,102,25.2,56,344.5,Herbivore,Omnivore,Terrestrial
+bamboo,2022-2023,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Bay Woodpecker,Blythipicus pyrrhotis,Picidae,Piciformes,45.7,33.7,9,10.6,26,147.5,18.1,129.4,12.3,90.2,132,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Lesser Shortwing,Brachypteryx leucophris,Muscicapidae,Passeriformes,13.5,7.8,3,3.5,26,56.6,7.8,48.8,13.8,34.5,15.8,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,17.6,10.2,2.4,2.6,16.8,68.8,13.2,55.1,19.3,79.2,10.4,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Sikkim Treecreeper,Certhia discolor,Certhiidae,Passeriformes,17.6,10.2,2.4,2.6,16.8,68.8,13.2,55.1,19.3,79.2,10.4,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Grey-sided Bush Warbler,Cettia brunnifrons,Scotocercidae,Passeriformes,11,5.2,2.1,2.4,18.2,45.4,4.8,40.7,10.7,43.2,7.3,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,Chestnut-headed Tesia,Cettia castaneocoronata,Scotocercidae,Passeriformes,11,5.6,2.5,2.1,21.4,48,6.6,41.4,13.8,22.8,8.9,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Yellow-bellied Fairy-Fantail,Chelidorhynx hypoxanthus,Stenostiridae,Passeriformes,8.4,3.8,2.9,2.5,13.7,54.9,8.5,46.2,15.6,57.9,6,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,24.7,14.9,4.6,5.4,17.6,93.6,18.1,74.7,19.5,71.4,32.3,Omnivore,Omnivore,Insessorial
+forest,2022-2023,pre-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,24.7,14.9,4.6,5.4,17.6,93.6,18.1,74.7,19.5,71.4,32.3,Omnivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Orange-bellied Leafbird,Chloropsis hardwickii,Chloropseidae,Passeriformes,24.7,14.9,4.6,5.4,17.6,93.6,18.1,74.7,19.5,71.4,32.3,Omnivore,Omnivore,Insessorial
+bamboo,2022-2023,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+bamboo,2022-2023,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+forest,2022-2023,pre-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+forest,2022-2023,post-winter,Common Green Magpie,Cissa chinensis,Corvidae,Passeriformes,39.9,24.2,11.7,14.1,44.2,145.8,12.4,133.9,8.4,186.5,126.6,Carnivore,Omnivore,Generalist
+bamboo,2022-2023,pre-winter,Large-billed Crow,Corvus macrorhynchos,Corvidae,Passeriformes,62,42.3,17.4,21.9,57,318.6,111.2,207.6,34.8,182.9,513.1,Omnivore,Omnivore,Generalist
+forest,2022-2023,post-winter,Himalayan Cutia,Cutia nipalensis,Leiothrichidae,Passeriformes,21.7,11.8,4.8,6.1,28.1,88,14.1,73.9,16,61,47.2,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Golden Babbler,Cyanoderma chrysaeum,Timaliidae,Passeriformes,12.3,7.1,2.5,2.9,16.4,51.2,5.1,46.2,9.9,45,9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,15,8.9,2.6,3.3,19.6,55,5.4,50,9.8,47,10.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Rufous-capped Babbler,Cyanoderma ruficeps,Timaliidae,Passeriformes,15,8.9,2.6,3.3,19.6,55,5.4,50,9.8,47,10.3,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+abandoned,2022-2023,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+abandoned,2022-2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+bamboo,2022-2023,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+bamboo,2022-2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2022-2023,pre-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Grey Treepie,Dendrocitta formosae,Corvidae,Passeriformes,34,23.2,11.7,14.7,30.2,141.1,22.8,119.2,16,200.7,102.7,Omnivore,Omnivore,Insessorial
+bamboo,2022-2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,11,7.3,3.2,3,12,47.3,10.2,37.6,21.3,25,5.6,Herbivore,Omnivore,Insessorial
+forest,2022-2023,pre-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,11,7.3,3.2,3,12,47.3,10.2,37.6,21.3,25,5.6,Herbivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Scarlet-backed Flowerpecker,Dicaeum cruentatum,Dicaeidae,Passeriformes,11,7.3,3.2,3,12,47.3,10.2,37.6,21.3,25,5.6,Herbivore,Omnivore,Insessorial
+jhum,2022-2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+abandoned,2022-2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+forest,2022-2023,pre-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Fire-breasted Flowerpecker,Dicaeum ignipectus,Dicaeidae,Passeriformes,9.4,6,2.5,2.7,11.7,46.8,10.9,35.9,23.3,24.6,5.7,Herbivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Hair-crested Drongo,Dicrurus hottentottus,Dicruridae,Passeriformes,37.5,27.1,10.5,11.5,25.2,159.9,39.7,121.6,24.5,138.4,79.2,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Ashy Drongo,Dicrurus leucophaeus,Dicruridae,Passeriformes,25.4,16.7,9.3,8.4,18.6,134.8,42.4,91.8,31.5,134.7,37.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,25.5,15.5,8,8.6,19.5,132.7,33.8,99.3,25.4,111.3,43.1,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Lesser racket-tailed Drongo,Dicrurus remifer,Dicruridae,Passeriformes,25.5,15.5,8,8.6,19.5,132.7,33.8,99.3,25.4,111.3,43.1,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Crimson-naped Woodpecker,Dryobates cathpharius,Picidae,Piciformes,17.7,13.7,5.4,5.5,15.8,98.2,26.1,71.6,26.8,61.6,30.7,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Spotted Elachura,Elachura formosa,Elachuridae,Passeriformes,13.1,8.2,2.4,3.1,16.8,45.6,4.2,41.5,9.3,30.2,5,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+jhum,2022-2023,post-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+abandoned,2022-2023,pre-winter,Little Bunting,Emberiza pusilla,Emberizidae,Passeriformes,10.7,6.8,3.7,4.6,18,70.3,17.1,52.9,24.5,55.5,14.6,Herbivore,Granivore,Generalist
+bamboo,2022-2023,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+bamboo,2022-2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+forest,2022-2023,pre-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+forest,2022-2023,post-winter,Spotted Forktail,Enicurus maculatus,Muscicapidae,Passeriformes,22,14,3.7,4.4,28.8,102.5,25.9,76,25.4,145.2,40.4,Carnivore,Aquatic predator,Terrestrial
+bamboo,2022-2023,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+bamboo,2022-2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2022-2023,pre-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2022-2023,post-winter,Slaty-backed Forktail,Enicurus schistaceus,Muscicapidae,Passeriformes,20.5,12.1,4,4.3,25.3,90,24.4,63.9,27.6,121,31,Carnivore,Aquatic predator,Terrestrial
+forest,2022-2023,pre-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,15.4,8.4,3.9,4.2,16.7,66.4,11.3,54.8,17.1,44,11.8,Omnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,White-bellied Erpornis,Erpornis zantholeuca,Vireonidae,Passeriformes,15.4,8.4,3.9,4.2,16.7,66.4,11.3,54.8,17.1,44,11.8,Omnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiotrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+abandoned,2022-2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiotrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiotrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,post-winter,White-crested Laughingthrush,Garrulax leucolophus,Leiothrichidae,Passeriformes,28.9,16.6,5.4,7.5,42.8,131.1,7.4,123.4,5.7,130.1,123.4,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Striated Laughingthrush,Grammatoptila striata,Leiotrichidae,Passeriformes,28.7,15.5,7.7,10.7,44.3,146.8,14.4,131.1,9.9,135.6,92,Omnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Red-headed Trogon,Harpactes erythrocephalus,Trogonidae,Trogoniformes,20,11.3,9.7,10.7,17.2,144.8,54.8,91.2,37.5,170.8,80.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Bar-winged Flycatcher-Shrike,Hemipus picatus,Vangidae,Passeriformes,12.2,8.4,4.3,3.7,11.2,60.7,9.4,52,15.3,55.5,9,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Pale-footed Bush Warbler,Hemitesia pallidipes,Scotocercidae,Passeriformes,13,6.9,2.4,2.7,19.1,49.1,5.4,44.2,10.8,41,10,Carnivore,Invertivore,Generalist
+jhum,2022-2023,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+jhum,2022-2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,pre-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Hume's Bush Warbler,Horornis brunnescens,Scotocercidae,Passeriformes,12.2,6.2,2.4,2.4,20.3,51.5,6.3,44.8,12.4,48,5.3,Carnivore,Invertivore,Generalist
+jhum,2022-2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+forest,2022-2023,pre-winter,Brownish-flanked Bush Warbler,Horornis fortipes,Scotocercidae,Passeriformes,13.5,6.8,2.6,2.9,21.1,52.7,5.9,46.5,11.3,44.2,9.6,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,25.2,14.3,4.9,5.7,18,117.8,29.1,88.7,24.7,97.8,51.8,Herbivore,Frugivore,Insessorial
+forest,2022-2023,pre-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,25.2,14.3,4.9,5.7,18,117.8,29.1,88.7,24.7,97.8,51.8,Herbivore,Frugivore,Insessorial
+forest,2022-2023,post-winter,Black Bulbul,Hypsipetes leucocephalus,Pycnonotidae,Passeriformes,25.2,14.3,4.9,5.7,18,117.8,29.1,88.7,24.7,97.8,51.8,Herbivore,Frugivore,Insessorial
+forest,2022-2023,pre-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,26,15.8,5,5.5,18.3,106,19.2,86.8,18.1,107.8,32.5,Omnivore,Omnivore,Insessorial
+forest,2022-2023,post-winter,Mountain Bulbul,Ixos mcclellandii,Pycnonotidae,Passeriformes,26,15.8,5,5.5,18.3,106,19.2,86.8,18.1,107.8,32.5,Omnivore,Omnivore,Insessorial
+jhum,2022-2023,post-winter,Long-tailed Shrike,Lanius schach,Laniidae,Passeriformes,21.8,13.2,6.8,9.2,29.2,92.4,18.6,73.2,20.3,123.3,51.5,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,11.8,8.8,6.7,7.5,14,52.6,11.9,42.4,22,39,13.6,Herbivore,Granivore,Generalist
+abandoned,2022-2023,pre-winter,Scaly-breasted Munia,Lonchura punctulata,Estrildidae,Passeriformes,11.8,8.8,6.7,7.5,14,52.6,11.9,42.4,22,39,13.6,Herbivore,Granivore,Generalist
+jhum,2022-2023,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,12,8.3,6.7,7.8,13.1,50.7,10.6,40.1,20.9,39.8,12.3,Herbivore,Granivore,Insessorial
+jhum,2022-2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,12,8.3,6.7,7.8,13.1,50.7,10.6,40.1,20.9,39.8,12.3,Herbivore,Granivore,Insessorial
+abandoned,2022-2023,pre-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,12,8.3,6.7,7.8,13.1,50.7,10.6,40.1,20.9,39.8,12.3,Herbivore,Granivore,Insessorial
+abandoned,2022-2023,post-winter,White-rumped Munia,Lonchura striata,Estrildidae,Passeriformes,12,8.3,6.7,7.8,13.1,50.7,10.6,40.1,20.9,39.8,12.3,Herbivore,Granivore,Insessorial
+forest,2022-2023,post-winter,Yellow-cheeked Tit,Machlolophus spilonotus,Paridae,Passeriformes,11.3,8.5,4.3,4.7,17.8,76.5,12.6,64,16.4,55.2,18.8,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,13.2,7,2.7,3.2,19.3,63.6,9.9,53.6,15.6,57.3,14.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Red-tailed Minla,Minla ignotincta,Leiotrichidae,Passeriformes,13.2,7,2.7,3.2,19.3,63.6,9.9,53.6,15.6,57.3,14.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+bamboo,2022-2023,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+forest,2022-2023,pre-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+forest,2022-2023,post-winter,Blue Whistling-Thrush,Myophonus caeruleus,Muscicapidae,Passeriformes,33.3,19.4,6.9,9.6,49.9,169.4,35,133.8,20.7,119.4,158,Carnivore,Omnivore,Terrestrial
+bamboo,2022-2023,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Large Niltava,Niltava grandis,Muscicapidae,Passeriformes,19.3,10.8,5.3,5,21.1,97.3,18.9,77.4,19.6,86.1,30.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,11.7,6.1,3.7,3.1,16.8,63.2,10.3,52.9,16.4,52.8,12,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Small Niltava,Niltava macgrigoriae,Muscicapidae,Passeriformes,11.7,6.1,3.7,3.1,16.8,63.2,10.3,52.9,16.4,52.8,12,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,13.2,8.2,5.5,6.5,16.4,67.9,16.7,51.2,24.6,51,21.4,Omnivore,Granivore,Terrestrial
+abandoned,2022-2023,pre-winter,Eurasian Tree Sparrow,Passer montanus,Passeridae,Passeriformes,13.2,8.2,5.5,6.5,16.4,67.9,16.7,51.2,24.6,51,21.4,Omnivore,Granivore,Terrestrial
+forest,2022-2023,post-winter,Grey-chinned Minivet,Pericrocotus solaris,Campephagidae,Passeriformes,13.6,7.6,4.4,4.1,14.7,83.2,23.5,59.5,28.3,98.8,14.5,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,14,8.2,3.2,3.4,22.2,72.5,14.8,57.5,20.5,65.9,16.2,Omnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Daurian Redstart,Phoenicurus auroreus,Muscicapidae,Passeriformes,14,8.2,3.2,3.4,22.2,72.5,14.8,57.5,20.5,65.9,16.2,Omnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Blue-fronted Redstart,Phoenicurus frontalis,Muscicapidae,Passeriformes,13.1,7.4,3.1,3.2,22.1,84.5,19.4,64.4,23.2,69,15.8,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,14.5,7.8,3.3,3.2,23.2,82,16.6,65.2,20.2,68.2,17,Omnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Hodgson's Redstart,Phoenicurus hodgsoni,Muscicapidae,Passeriformes,14.5,7.8,3.3,3.2,23.2,82,16.6,65.2,20.2,68.2,17,Omnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Mountain Tailorbird,Phyllergates cucullatus,Scotocercidae,Passeriformes,16.2,9.2,3.1,2.5,19.4,44.9,5.6,37.3,13.1,45.3,5.9,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,10,6,2.6,2.2,18.3,59,8.9,50.9,14.8,43.8,7,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Tickell's Leaf Warbler,Phylloscopus affinis,Phylloscopidae,Passeriformes,10,6,2.6,2.2,18.3,59,8.9,50.9,14.8,43.8,7,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Yellow-vented Warbler,Phylloscopus cantator,Phylloscopidae,Passeriformes,11.8,6.7,2.5,2.6,16.2,53.8,9.6,43.7,18,42.4,6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Chestnut-crowned Warbler,Phylloscopus castaniceps,Phylloscopidae,Passeriformes,9.6,4.9,2.5,2.4,15.4,48.8,9.5,39.3,19.3,37.2,5.3,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Lemon-rumped Warbler,Phylloscopus chloronotus,Phylloscopidae,Passeriformes,9.5,4.8,2.3,1.9,15.8,50.5,8.6,41.9,17,37.2,4.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,White-spectacled Warbler,Phylloscopus intermedius,Phylloscopidae,Passeriformes,15.3,6.8,2.9,2.7,16.3,57.3,10.4,47.2,18.1,46.2,6.9,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Ashy-throated Warbler,Phylloscopus maculipennis,Phylloscopidae,Passeriformes,8.9,4.2,2.6,2.1,18.1,46.8,7.8,38.4,17,31.8,5.1,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Grey-cheeked Warbler,Phylloscopus poliogenys,Phylloscopidae,Passeriformes,9.9,6.1,2.9,2.5,17.2,50,9.7,39.8,20,45,6.3,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Blyth's Leaf Warbler,Phylloscopus reguloides,Phylloscopidae,Passeriformes,12.1,6.5,2.9,2.6,18,56.6,9,47.1,16.1,50.1,7.6,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,10.9,5.8,2.6,2.6,17.4,52.9,8.6,44.6,16,43.4,6.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Grey-hooded Warbler,Phylloscopus xanthoschistos,Phylloscopidae,Passeriformes,10.9,5.8,2.6,2.6,17.4,52.9,8.6,44.6,16,43.4,6.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Scaly-breasted Cupwing,Pnoepyga albiventer,Pnoepygidae,Passeriformes,12.9,7.2,2.6,3.1,23.3,61.5,4,57.5,6.4,26.2,20.9,Omnivore,Invertivore,Generalist
+bamboo,2022-2023,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,post-winter,Pygmy Cupwing,Pnoepyga pusilla,Pnoepygidae,Passeriformes,12.1,6.8,2.5,2.5,18.6,50,5,45.3,9.9,18.6,12,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,post-winter,Black-crowned Scimitar Babbler,Pomatorhinus ferruginosus,Timaliidae,Passeriformes,30.5,19.9,3.9,6.7,31.1,96.2,8.2,89.4,8.6,96.8,40,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,pre-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,33.9,24,3.8,6,30,93,6.9,85.6,7.4,107.8,34,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,33.9,24,3.8,6,30,93,6.9,85.6,7.4,107.8,34,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Red-billed Scimitar Babbler,Pomatorhinus ochraceiceps,Timaliidae,Passeriformes,33.9,24,3.8,6,30,93,6.9,85.6,7.4,107.8,34,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,22.5,15.6,3.3,5.4,28,78.8,7.7,69.8,10,85.4,31.6,Carnivore,Invertivore,Generalist
+forest,2022-2023,pre-winter,Streak-breasted Scimitar Babbler,Pomatorhinus ruficollis,Timaliidae,Passeriformes,22.5,15.6,3.3,5.4,28,78.8,7.7,69.8,10,85.4,31.6,Carnivore,Invertivore,Generalist
+jhum,2022-2023,post-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,50.2,43.3,3.6,4.9,30.8,75,7.3,67.7,9.7,90,28,Omnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,50.2,43.3,3.6,4.9,30.8,75,7.3,67.7,9.7,90,28,Omnivore,Invertivore,Generalist
+bamboo,2022-2023,pre-winter,Slender-billed Scimitar Babbler,Pomatorhinus superciliaris,Timaliidae,Passeriformes,50.2,43.3,3.6,4.9,30.8,75,7.3,67.7,9.7,90,28,Omnivore,Invertivore,Generalist
+jhum,2022-2023,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Hill Prinia,Prinia superciliaris,Cisticolidae,Passeriformes,13.1,7.3,2.4,3,20,48,3.2,44.8,6.7,100,11.8,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,13.1,7,3.9,3.8,19.6,63.1,10.2,52.2,16.3,57.4,18.1,Omnivore,Invertivore,Terrestrial
+abandoned,2022-2023,post-winter,Rufous-breasted Accentor,Prunella strophiata,Prunellidae,Passeriformes,13.1,7,3.9,3.8,19.6,63.1,10.2,52.2,16.3,57.4,18.1,Omnivore,Invertivore,Terrestrial
+forest,2022-2023,post-winter,Golden-throated Barbet,Psilopogon franklinii,Megalaimidae,Piciformes,23.7,17.4,8.6,10.8,24.3,98.8,16.5,82.2,16.7,61.2,63.5,Herbivore,Frugivore,Insessorial
+bamboo,2022-2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,44,29.6,14.5,17.6,33.4,138.4,30.2,109.2,21.7,100.5,202,Herbivore,Frugivore,Insessorial
+forest,2022-2023,pre-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,44,29.6,14.5,17.6,33.4,138.4,30.2,109.2,21.7,100.5,202,Herbivore,Frugivore,Insessorial
+forest,2022-2023,post-winter,Great Barbet,Psilopogon virens,Megalaimidae,Piciformes,44,29.6,14.5,17.6,33.4,138.4,30.2,109.2,21.7,100.5,202,Herbivore,Frugivore,Insessorial
+bamboo,2022-2023,post-winter,Grey-sided Laughingthrush,Pterorhinus caerulatus,Leiotrichidae,Passeriformes,26.5,16.5,6.1,7.3,40.7,104.5,3.4,101.1,3.3,120,85.7,Herbivore,Omnivore,Insessorial
+bamboo,2022-2023,pre-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,23.5,14.5,5.7,7,35.2,97,7.1,90.2,7.3,106.3,66.2,Omnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,23.5,14.5,5.7,7,35.2,97,7.1,90.2,7.3,106.3,66.2,Omnivore,Invertivore,Generalist
+forest,2022-2023,post-winter,Rufous-necked Laughingthrush,Pterorhinus ruficollis,Leiotrichidae,Passeriformes,23.5,14.5,5.7,7,35.2,97,7.1,90.2,7.3,106.3,66.2,Omnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,11.8,5.4,4,3.9,19.9,59.3,10.2,49.2,17.2,41.4,13.3,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Black-eared Shrike-Babbler,Pteruthius melanotis,Vireonidae,Passeriformes,11.8,5.4,4,3.9,19.9,59.3,10.2,49.2,17.2,41.4,13.3,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+bamboo,2022-2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,White-throated Fantail,Rhipidura albicollis,Rhipiduridae,Passeriformes,13.6,6.5,4,3.1,18.9,78.4,13.8,64.6,17.6,100.3,12.9,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+jhum,2022-2023,post-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,pre-winter,Grey Bushchat,Saxicola ferreus,Muscicapidae,Passeriformes,14.5,8.2,3.9,3.8,20.8,66.3,12.3,54.3,18.5,59.4,14.7,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,11.2,6,2.7,2.7,19.1,53.7,7.7,45.6,14.4,41.3,12.5,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Rufous-winged Fulvetta,Schoeniparus castaneceps,Pellorneidae,Passeriformes,11.2,6,2.7,2.7,19.1,53.7,7.7,45.6,14.4,41.3,12.5,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Crested Serpent-Eagle,Spilornis cheela,Accipitridae,Accipitriformes,45.6,30.1,14.4,20.8,82.2,373.7,112.6,261.1,30.1,237.4,597.7,Carnivore,Vertivore,Insessorial
+forest,2022-2023,pre-winter,Grey-throated Babbler,Stachyris nigriceps,Timaliidae,Passeriformes,16.9,9.9,3,4.5,20.5,58,5.6,52.5,9.6,49.8,15.8,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Striated Yuhina,Staphida castaniceps,Zosteropidae,Passeriformes,11,6.1,3,3.2,16.8,58.7,12.9,46.6,21.7,55.1,11.8,Carnivore,Invertivore,Insessorial
+abandoned,2022-2023,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+forest,2022-2023,pre-winter,Himalayan Bluetail,Tarsiger rufilatus,Muscicapidae,Passeriformes,13.5,7.2,3.1,3.1,24.6,77.6,16.4,61.2,21.1,60.2,12.8,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+bamboo,2022-2023,post-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+forest,2022-2023,pre-winter,Grey-bellied Tesia,Tesia cyaniventer,Scotocercidae,Passeriformes,14,7.2,3.5,2.6,22.8,50.9,6.5,43.9,12.8,17,9.7,Carnivore,Invertivore,Generalist
+jhum,2022-2023,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,12.5,6.2,3,2.9,22.1,47.6,4.4,42.3,9.4,20.5,7,Carnivore,Invertivore,Terrestrial
+abandoned,2022-2023,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,12.5,6.2,3,2.9,22.1,47.6,4.4,42.3,9.4,20.5,7,Carnivore,Invertivore,Terrestrial
+bamboo,2022-2023,post-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,12.5,6.2,3,2.9,22.1,47.6,4.4,42.3,9.4,20.5,7,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,Slaty-bellied Tesia,Tesia olivea,Scotocercidae,Passeriformes,12.5,6.2,3,2.9,22.1,47.6,4.4,42.3,9.4,20.5,7,Carnivore,Invertivore,Terrestrial
+forest,2022-2023,pre-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,23.8,11.4,4.4,5.8,36.3,101.8,7,93.8,6.9,122,72.7,Carnivore,Invertivore,Generalist
+forest,2022-2023,post-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,23.8,11.4,4.4,5.8,36.3,101.8,7,93.8,6.9,122,72.7,Carnivore,Invertivore,Generalist
+abandoned,2022-2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,12.8,6.3,3.1,3.3,19.3,62.8,10.3,52.2,16.5,52,16.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,12.8,6.3,3.1,3.3,19.3,62.8,10.3,52.2,16.5,52,16.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Whiskered Yuhina,Yuhina flavicollis,Zosteropidae,Passeriformes,12.8,6.3,3.1,3.3,19.3,62.8,10.3,52.2,16.5,52,16.9,Carnivore,Invertivore,Insessorial
+forest,2022-2023,pre-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,16.3,8.2,3.3,3.2,20.4,72.4,13.4,59,18.6,64.5,20.8,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Stripe-throated Yuhina,Yuhina gularis,Zosteropidae,Passeriformes,16.3,8.2,3.3,3.2,20.4,72.4,13.4,59,18.6,64.5,20.8,Carnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Black-chinned Yuhina,Yuhina nigrimenta,Zosteropidae,Passeriformes,12.5,6.9,2.8,2.9,14.9,55.2,11.7,43.4,21,39.4,9.5,Omnivore,Invertivore,Insessorial
+forest,2022-2023,post-winter,Dark-sided Thrush,Zoothera marginata,Turdidae,Passeriformes,33.2,22.4,5.6,6.9,28.2,120.8,30.7,90.1,25.4,76.6,81,Carnivore,Invertivore,Terrestrial
+bamboo,2021-2022,post-winter,Broad-billed Warbler,Tickellia hodgsoni,Scotocercidae,Passeriformes,12.1,6.2,3.2,2.3,19.5,46.1,6,40.3,12.9,44,4.5,Carnivore,Invertivore,Insessorial
+bamboo,2021-2022,post-winter,Black-faced Laughingthrush,Trochalopteron affine,Leiotrichidae,Passeriformes,23.8,11.4,4.4,5.8,36.3,101.8,7,93.8,6.9,122,72.7,Carnivore,Invertivore,Generalist

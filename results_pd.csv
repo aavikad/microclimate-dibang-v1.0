@@ -1,0 +1,17 @@
+,lulc,season,year,Average_PD,Average_PSR,mean_temp,mean_rh
+abandoned_1,abandoned,pre-winter,1,278.8480065,7,14.21,78.18
+abandoned_2,abandoned,pre-winter,1,315.0894929,8,16.37,70.91
+abandoned_3,abandoned,post-winter,2,546.6307546,12,13.6,76.2
+abandoned_4,abandoned,post-winter,2,641.1481768,14,14.2,77.18
+bamboo_1,bamboo,pre-winter,1,807.5992804,19,10.38,89.03
+bamboo_2,bamboo,pre-winter,1,750.099665,19,12.09,75.54
+bamboo_3,bamboo,post-winter,2,845.8992712,24,11.68,77.19
+bamboo_4,bamboo,post-winter,2,892.4558451,25,10.67,87.56
+forest_1,forest,pre-winter,1,1173.613532,41,10.91,92.52
+forest_2,forest,pre-winter,1,1207.302347,40,11.29,80.93
+forest_3,forest,post-winter,2,1091.62593,38,11.5,82.59
+forest_4,forest,post-winter,2,1236.298373,41,12.42,84.49
+jhum_1,jhum,pre-winter,1,446.5223693,14,17.98,78.11
+jhum_2,jhum,pre-winter,1,546.881046,15,15.59,68.52
+jhum_3,jhum,post-winter,2,277.1835761,7,15.28,71.73
+jhum_4,jhum,post-winter,2,680.2701048,17,13.71,78.07
